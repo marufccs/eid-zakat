@@ -1,15 +1,15 @@
 .first {
     background-image: url(https://businessinspection.com.bd/wp-content/uploads/2022/06/The-dairy-farmers-preparing-for-Eid-Ul-Adha.jpg);
-    color: white;
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 60px;
+    
 }
 body {
-    margin: 0;
-    padding: 0;
-    border: 0;
+    margin: 0px;
+    margin-top: 0;   
+    
 }
 .evil {
 position: relative;
@@ -116,4 +116,15 @@ padding: 20px 400px;
 }
 .ahref {
     color: red;
+}
+footer {
+    width: 100%;
+    background-color: black;
+    height: 300px;
+}
+.eid {
+    text-align: center;
+    color: rgb(137, 13, 13);
+   position: relative;
+   top: 100px;
 }
