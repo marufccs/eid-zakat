@@ -1,0 +1,54 @@
+.first {
+    background-image: url(https://businessinspection.com.bd/wp-content/uploads/2022/06/The-dairy-farmers-preparing-for-Eid-Ul-Adha.jpg);
+    color: white;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 60px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.evil {
+position: relative;
+left: 200px;
+top: 150px;
+}
+.donate {
+    border: 5%;
+    text-decoration: none;
+    background-image: linear-gradient(blue , skyblue
+    );
+    padding: 15px;
+    border-radius: 5%;
+    color: white;
+}
+.second {
+    display: flex;
+    margin-bottom: 100px;
+}
+.left {
+width: 50%;
+padding-left: 200px;
+padding-right: 130px;
+margin-top: 20px;
+}
+.right {
+    width: 50%;
+    padding-right: 150px;
+}
+.left1{
+    width: 50%;
+}
+.right1{
+    width: 50%;
+}
+.left1 {
+    padding-left: 200px;
+}
+.right1 {
+    padding-right: 150px;
+    padding-left: 50px;
+}
