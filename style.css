@@ -97,3 +97,23 @@ margin-bottom: 100px;
 .prima {
     border-radius: 5%;
 }
+.lives1 {
+    text-align: center;
+padding: 20px 400px;
+}
+
+.container3 {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    gap: 50px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.bg {
+  border: ridge 1px;
+  padding: 10px 30px;
+  border-radius: 5%;
+}
+.ahref {
+    color: red;
+}
